@@ -4,5 +4,5 @@ The project of 34th challenge cup —— Air Hockey
 ** Image part **
 温拓扑
 
-** Machenice part **
+** Machenic part **
 丁文浩
