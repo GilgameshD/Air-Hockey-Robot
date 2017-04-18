@@ -1,8 +1,8 @@
-# Challenge-Cup
-The project of 34th challenge cup —— Air Hockey
+# Air Hockey Robot
+The project of 34th Tsinghua university challenge cup, the name of this project is Air Hockey Robot .It is a simple robot which can play air hockey against human player.
 
-** Image part **
-温拓扑
+* Image part
+Tuopu Wen
 
-** Machenic part **
-丁文浩
+* Machenic part
+Wenhao Ding
