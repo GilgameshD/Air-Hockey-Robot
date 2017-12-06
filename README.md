@@ -11,7 +11,7 @@ Wenhao Ding
 ## 2. Phtos
 
 ### The photo of the platform
-![photo1](https://github.com/GilgameshD/LeapMotion-Vive-Controller/blob/master/photo/cover_photo.jpg?raw=true)
+![photo1](https://raw.githubusercontent.com/GilgameshD/Challenge-Cup-2016/master/photos/1.png)
 
 ### topview form the camera
-![photo2](https://github.com/GilgameshD/LeapMotion-Vive-Controller/blob/master/photo/cover_photo.jpg?raw=true)
+![photo2](https://raw.githubusercontent.com/GilgameshD/Challenge-Cup-2016/master/photos/2.png)
